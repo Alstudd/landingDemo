@@ -10,17 +10,17 @@ export default function StartYourJourney() {
         </h1>
         <div className="xl:ml-0 lg:ml-10 ml-0 flex items-center justify-center gap-5 mb-28">
           <div className="flex justify-center items-center gap-5">
-            <a href="/login">
+            <a href="#">
               <button className="flex justify-center items-center px-6 py-2 rounded-lg bg-white buttonBoxShadow">
-                Log in
+                Patient
               </button>
             </a>
           </div>
           <p className="text-xl text-[#959595] font-medium">or</p>
           <div className="flex justify-center items-center gap-5">
-            <a href="/">
+            <a href="http://localhost:3001/">
               <button className="flex justify-center items-center px-6 py-2 rounded-lg text-white bg-black">
-                Register
+                Doctor
               </button>
             </a>
           </div>

@@ -14,14 +14,14 @@ export default function Navbar() {
         <a href="/contact">Contact</a>
       </div>
       <div className="pr-5 hidden lg:flex gap-5 items-center">
-        <a href="/">
+        <a href="http://localhost:3001/">
           <button className="px-8 py-2 rounded-2xl bg-black text-white">
-            Register
+            Doctor
           </button>
         </a>
-        <a href="/login">
+        <a href="#">
           <button className="px-8 py-2 rounded-2xl border-[1px] border-solid border-black">
-            Log in
+            Patient
           </button>
         </a>
       </div>
