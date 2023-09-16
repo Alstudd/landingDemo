@@ -19,7 +19,7 @@ export default function Navbar() {
             Doctor
           </button>
         </a>
-        <a href="http://localhost:3001/" target="_blank">
+        <a href="https://your-report-w3.netlify.app/" target="_blank">
           <button className="px-8 py-2 rounded-2xl border-[1px] border-solid border-black">
             Patient
           </button>
@@ -47,7 +47,7 @@ export default function Navbar() {
           <a href="/contact">Contact</a>
         </li>
         <div className="flex flex-col gap-5 my-2">
-        <a href="http://localhost:3001/" target="_blank">
+        <a href="https://your-report-w3.netlify.app/" target="_blank">
           <button className="w-full px-6 py-1.5 rounded-3xl bg-black text-white">
             Patient
           </button>
