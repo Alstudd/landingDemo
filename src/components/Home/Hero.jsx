@@ -18,7 +18,7 @@ export default function Hero() {
             <span className="gradText1 leading-snug">Begins Here</span>
           </h1>
           <p className="text-center md:text-xl text-base font-medium text-[#616161] lg:w-[46rem] md:w-[35rem] w-[15rem]">
-            Join Our Blockchain Backed Platform, Empowering Healthcare through Secure Blockchain Technology. Use our Platform For secure patient data storage and exchange using Solana
+            Join Our Blockchain Backed Platform, Empowering Healthcare through Secure Blockchain Technology. Use our Platform For secure patient data storage and exchange using Blockchain
           </p>
         </div>
         <div className="z-10 flex h-11 justify-between rounded-2xl bg-white shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)]">

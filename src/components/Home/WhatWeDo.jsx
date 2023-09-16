@@ -6,7 +6,7 @@ export default function WhatWeDo() {
     <div className="flex flex-col gap-6 sm:ml-24 ml-0 2xl:w-[80rem] xl:w-[72.5rem] lg:w-[50rem] md:w-[41rem] sm:w-[28rem] w-full sm:pr-0 pr-8">
       <h1 className="mt-12 lg:text-6xl md:text-5xl text-4xl font-extrabold md:leading-normal leading-tight sm:ml-0 ml-24 sm:w-full w-[17rem]">What we do?</h1>
       <p className="ml-10 text-xl font-medium text-[#616161] sm:w-full w-[17rem]">
-        We provide facilities like data security, immutability, transparency, and interoperability. We use technologies like React JS, Next JS, Rust and Solana to keep your data safe and secure.
+        We provide facilities like data security, immutability, transparency, and interoperability. We use technologies like React JS, Next JS and Solidity to keep your data safe and secure.
       </p>
       <div className="ml-10 relative md:h-[33.5rem] rounded-2xl border-[1px] border-solid border-black bg-white drop-shadow-[0_4px_4px_0_rgba(0,0,0,0.25)]">
         <div className="flex xl:flex-row xl:gap-0 flex-col gap-8">
