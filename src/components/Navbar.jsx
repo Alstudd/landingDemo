@@ -14,12 +14,12 @@ export default function Navbar() {
         <a href="/contact">Contact</a>
       </div>
       <div className="pr-5 hidden lg:flex gap-5 items-center">
-        <a href="http://localhost:3001/" target="_blank">
+        <a href="http://localhost:3000/" target="_blank">
           <button className="px-8 py-2 rounded-2xl bg-black text-white">
             Doctor
           </button>
         </a>
-        <a href="http://localhost:3000/" target="_blank">
+        <a href="http://localhost:3001/" target="_blank">
           <button className="px-8 py-2 rounded-2xl border-[1px] border-solid border-black">
             Patient
           </button>
@@ -47,12 +47,12 @@ export default function Navbar() {
           <a href="/contact">Contact</a>
         </li>
         <div className="flex flex-col gap-5 my-2">
-        <a href="http://localhost:3000/" target="_blank">
+        <a href="http://localhost:3001/" target="_blank">
           <button className="w-full px-6 py-1.5 rounded-3xl bg-black text-white">
             Patient
           </button>
         </a>
-        <a href="http://localhost:3001/" target="_blank">
+        <a href="http://localhost:3000/" target="_blank">
           <button className="w-full px-6 py-1.5 rounded-3xl border-2 border-solid border-black">
             Doctor
           </button>
